@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: 'Kanit-italic';
+    src: url('..//components/fonts/Kanit/Kanit-Italic.ttf');     
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Kanit-light';
+    src: url('../components/fonts/Kanit/Kanit-Light.ttf'); 
+    
+}
+
+@font-face {
+    font-family: 'Kanit-black';
+    src: url('../components/fonts/Kanit/Kanit-Black.ttf'); 
+
+}
+
+@font-face {
+    font-family: 'coca-cola';
+    src: url(../fonts/coca-cola/LOKICOLA.TTF);   
+    font-style: normal;
+}
